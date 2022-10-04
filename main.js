@@ -207,7 +207,7 @@ function reverseString(str) {
           resultDiv.innerText = `The nearest palindrome date is ${nextDate.day}-${nextDate.month}-${nextDate.year}, you missed by ${ctr1} days.`;
         }
       } else {
-        resultDiv.innerText = "Yay! Your birthday is palindrome!";
+        resultDiv.innerText = "hurrayy! Your birthday is palindrome!";
       }
     }
   }

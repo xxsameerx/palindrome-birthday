@@ -12,8 +12,29 @@
 
 body {
   font-family: "Work Sans", sans-serif;
+  background-color: lightblue;
 }
-
+.main{
+  border: 3px dashed #be185d;
+  text-align: center;
+  max-width: 30%;
+  width: 500px;
+  margin: auto;
+  margin-top: 5rem;
+}
+.links{
+  text-decoration: none;
+  color: brown;
+}
+.heading{
+  max-width: 23%;
+  margin: auto;
+  margin-bottom:1rem;
+  margin-top: 3rem;
+  color:#be185d;
+  background-color:;
+  border-radius:1%;
+}
 a {
   text-decoration: none;
 }
@@ -38,6 +59,7 @@ h2 {
   display: block;
   font-size: large;
   font-weight: 600;
+  color: #be185d;
 }
 
 .input {
