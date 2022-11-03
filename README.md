@@ -2,6 +2,8 @@
 # palindrome-birthday
 A simple website to know if you were born on a palindromic date This website also show the nearest next as well as previous palindrome date and by how many days the user has missed the palindrome date.
 
+# Stack used:
+ HTML5, CSS3 & JavaScript.
 
 First View:
 ![Screenshot (79)](https://user-images.githubusercontent.com/108549299/199592045-31ba03d7-3a94-429e-aa31-eaf986026335.png)
